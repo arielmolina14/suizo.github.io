@@ -1,0 +1,1748 @@
+[
+    {
+        "NroCliente": "1810",
+        "ObraSocial": "VISITAR",
+        "CUIT": "33-65712962-9",
+        "Modalidad": "Virtual - Fisico",
+        "PlazoCC": "30",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "2084",
+        "ObraSocial": "ACR",
+        "CUIT": "30-69746888-5",
+        "Modalidad": "Virtual - Fisico",
+        "PlazoCC": "30",
+        "EntregaLegajos": "ROSARIO",
+        "Observaciones": "Dirección: Gandini 128 (Junín, Provincia de Buenos Aires)"
+    },
+    {
+        "NroCliente": "2093",
+        "ObraSocial": "MEDICAL ELEMENT",
+        "CUIT": "20-22026539-1",
+        "Modalidad": "Virtual",
+        "PlazoCC": "30",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "2100",
+        "ObraSocial": "MEDICUS",
+        "CUIT": "30-54677131-4",
+        "Modalidad": "Virtual",
+        "PlazoCC": "67",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "2101",
+        "ObraSocial": "OMINT",
+        "CUIT": "30-55024530-9",
+        "Modalidad": "Virtual - Fisico",
+        "PlazoCC": "90",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "2108",
+        "ObraSocial": "APRES S.A.",
+        "CUIT": "30-56024300-2",
+        "Modalidad": "Virtual - Fisico",
+        "PlazoCC": "1",
+        "EntregaLegajos": "CABA",
+        "Observaciones": "REQUISITO: Entregas de expansor tisular o excepciones pedidas por el cliente requeriran legajo fisico"
+    },
+    {
+        "NroCliente": "2111",
+        "ObraSocial": "HOSPITAL ITALIANO",
+        "CUIT": "30-54586767-9",
+        "Modalidad": "Virtual",
+        "PlazoCC": "60",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "2181",
+        "ObraSocial": "ORTOPEDIA CAPITAL",
+        "CUIT": "30-71150645-0",
+        "Modalidad": "Virtual",
+        "PlazoCC": "34",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "2183",
+        "ObraSocial": "OSDE CABA",
+        "CUIT": "30-54674125-3",
+        "Modalidad": "Virtual",
+        "PlazoCC": "30",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "2185",
+        "ObraSocial": "OSECAC",
+        "CUIT": "30-55027355-8",
+        "Modalidad": "Virtual - Fisico",
+        "PlazoCC": "30",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "2191",
+        "ObraSocial": "GALENO",
+        "CUIT": "30-52242816-3",
+        "Modalidad": "Virtual",
+        "PlazoCC": "90",
+        "EntregaLegajos": "CABA",
+        "Observaciones": "REQUISITO: Presentacion dentro de los 30 dias de colocado el implante"
+    },
+    {
+        "NroCliente": "2289",
+        "ObraSocial": "OSPOCE",
+        "CUIT": "30-65731497-4",
+        "Modalidad": "Virtual",
+        "PlazoCC": "60",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "2312",
+        "ObraSocial": "OSDIPP",
+        "CUIT": "30-54741601-1",
+        "Modalidad": "Virtual - Fisico",
+        "PlazoCC": "30",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "2314",
+        "ObraSocial": "OSDE SANTA FE",
+        "CUIT": "30-54674125-3",
+        "Modalidad": "Virtual - Fisico",
+        "PlazoCC": "20",
+        "EntregaLegajos": "ROSARIO",
+        "Observaciones": "Dirección: Rivadavia 3238 (Santa Fe)"
+    },
+    {
+        "NroCliente": "2318",
+        "ObraSocial": "AVALIAN / ACA SALUD",
+        "CUIT": "30-60495864-0",
+        "Modalidad": "Virtual",
+        "PlazoCC": "30",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "2319",
+        "ObraSocial": "OSPJN",
+        "CUIT": "30-63619685-8",
+        "Modalidad": "Fisico",
+        "PlazoCC": "90",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "2332",
+        "ObraSocial": "OSSEG",
+        "CUIT": "30-50005352-2",
+        "Modalidad": "Virtual",
+        "PlazoCC": "30",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "2334",
+        "ObraSocial": "SUCESION DE SUAREZ LUIS ALBERTO",
+        "CUIT": "20-04524709-1",
+        "Modalidad": "Virtual",
+        "PlazoCC": "30",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "2364",
+        "ObraSocial": "OSDE LA PLATA",
+        "CUIT": "30-54674125-3",
+        "Modalidad": "Virtual",
+        "PlazoCC": "30",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "2421",
+        "ObraSocial": "OSALARA",
+        "CUIT": "30-67972656-7",
+        "Modalidad": "Fisico",
+        "PlazoCC": "60",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "2431",
+        "ObraSocial": "OSIM",
+        "CUIT": "30-54999956-1",
+        "Modalidad": "Virtual - Fisico",
+        "PlazoCC": "30",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "2435",
+        "ObraSocial": "OSPRERA",
+        "CUIT": "30-54733941-6",
+        "Modalidad": "Fisico",
+        "PlazoCC": "60",
+        "EntregaLegajos": "CABA",
+        "Observaciones": "Presentacion realizada por Tratamientos Especiales"
+    },
+    {
+        "NroCliente": "2436",
+        "ObraSocial": "OSDOP",
+        "CUIT": "30-58541245-3",
+        "Modalidad": "Virtual - Fisico",
+        "PlazoCC": "30",
+        "EntregaLegajos": "CABA / MENDOZA",
+        "Observaciones": "REQUISITO: Se presenta en sede CABA o MENDOZA segun el lugar de entrega del pedido. Dirección CABA: Bartolomé Mitre 2235 (Buenos Aires) - Dirección MENDOZA: Gutiérrez 345 (Mendoza)"
+    },
+    {
+        "NroCliente": "2442",
+        "ObraSocial": "SICOMED",
+        "CUIT": "30-70920090-5",
+        "Modalidad": "Virtual",
+        "PlazoCC": "120",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "2467",
+        "ObraSocial": "SEMPRE",
+        "CUIT": "30-61650059-3",
+        "Modalidad": "Fisico",
+        "PlazoCC": "30",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "2472",
+        "ObraSocial": "CONSEJO PROFESIONAL DE CIENCIAS ECONOMICAS",
+        "CUIT": "30-51545954-1",
+        "Modalidad": "Virtual - Fisico",
+        "PlazoCC": "20",
+        "EntregaLegajos": "ROSARIO",
+        "Observaciones": "Dirección: Maipú 1344 (Rosario, Santa Fe)"
+    },
+    {
+        "NroCliente": "2479",
+        "ObraSocial": "SURGERY GROUP",
+        "CUIT": "30-71091342-7",
+        "Modalidad": "Virtual - Fisico",
+        "PlazoCC": "30",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "2484",
+        "ObraSocial": "OSDE TUCUMAN",
+        "CUIT": "30-54674125-3",
+        "Modalidad": "Virtual",
+        "PlazoCC": "20",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "2595",
+        "ObraSocial": "MEDIFE",
+        "CUIT": "30-68273765-0",
+        "Modalidad": "Virtual",
+        "PlazoCC": "90",
+        "EntregaLegajos": "CABA",
+        "Observaciones": "REQUISITO: Presentacion dentro de los 60 dias de colocado el implante"
+    },
+    {
+        "NroCliente": "2602",
+        "ObraSocial": "APSOT",
+        "CUIT": "30-56430406-5",
+        "Modalidad": "Virtual",
+        "PlazoCC": "60",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "2612",
+        "ObraSocial": "IPROSS",
+        "CUIT": "30-99907750-8",
+        "Modalidad": "Fisico",
+        "PlazoCC": "30",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "2621",
+        "ObraSocial": "OSDE CHUBUT",
+        "CUIT": "30-54674125-3",
+        "Modalidad": "Virtual",
+        "PlazoCC": "20",
+        "EntregaLegajos": "CABA",
+        "Observaciones": "OC emitidas a Comodo Rivadavia / Trelew"
+    },
+    {
+        "NroCliente": "2624",
+        "ObraSocial": "OSDE NORPATAGONICA",
+        "CUIT": "30-54674125-3",
+        "Modalidad": "Virtual",
+        "PlazoCC": "30",
+        "EntregaLegajos": "CABA",
+        "Observaciones": "REQUISITO: Presentacion solo lunes"
+    },
+    {
+        "NroCliente": "2653",
+        "ObraSocial": "OSDE MAR DEL PLATA",
+        "CUIT": "30-54674125-3",
+        "Modalidad": "Virtual",
+        "PlazoCC": "30",
+        "EntregaLegajos": "CABA",
+        "Observaciones": "REQUISITO: Presentacion solo viernes"
+    },
+    {
+        "NroCliente": "2664",
+        "ObraSocial": "OBSBA (ENTREGA EN OTRAS INSTITUCIONES)",
+        "CUIT": "30-99927011-1",
+        "Modalidad": "Virtual",
+        "PlazoCC": "120",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "2724",
+        "ObraSocial": "CEMIC",
+        "CUIT": "30-54612840-3",
+        "Modalidad": "Virtual - Fisico",
+        "PlazoCC": "120",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "2786",
+        "ObraSocial": "NEPHROLOGY",
+        "CUIT": "30-69216903-0",
+        "Modalidad": "Virtual",
+        "PlazoCC": "70",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "2919",
+        "ObraSocial": "OPDEA",
+        "CUIT": "33-54833535-9",
+        "Modalidad": "Virtual - Fisico",
+        "PlazoCC": "30",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "3007",
+        "ObraSocial": "JERARQUICOS",
+        "CUIT": "30-68695518-0",
+        "Modalidad": "Fisico",
+        "PlazoCC": "60",
+        "EntregaLegajos": "ROSARIO",
+        "Observaciones": "Dirección: Av. Facundo Zuviría 4612 (Santa Fe)"
+    },
+    {
+        "NroCliente": "4697",
+        "ObraSocial": "SWISS MEDICAL",
+        "CUIT": "30-65485516-8",
+        "Modalidad": "Virtual - Fisico",
+        "PlazoCC": "60",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "4805",
+        "ObraSocial": "OAM",
+        "CUIT": "30-57363585-6",
+        "Modalidad": "Virtual - Fisico",
+        "PlazoCC": "30",
+        "EntregaLegajos": "MAR DEL PLATA",
+        "Observaciones": "Dirección: 25 de Mayo 3237 (Mar del Plata, Provincia de Buenos Aires) - REQUISITO: CI original (no aceptan copia del PQ)"
+    },
+    {
+        "NroCliente": "4944",
+        "ObraSocial": "FUNDACION COMEI",
+        "CUIT": "30-66569246-5",
+        "Modalidad": "Virtual",
+        "PlazoCC": "30",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "6181",
+        "ObraSocial": "HOSPITAL AUSTRAL",
+        "CUIT": "30-59495091-3",
+        "Modalidad": "Virtual",
+        "PlazoCC": "90",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "6269",
+        "ObraSocial": "HOSPITAL ALEMAN",
+        "CUIT": "30-54584303-6",
+        "Modalidad": "Virtual",
+        "PlazoCC": "60",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "6285",
+        "ObraSocial": "FLEMING",
+        "CUIT": "30-64533797-9",
+        "Modalidad": "Virtual",
+        "PlazoCC": "90",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "6713",
+        "ObraSocial": "HOSPITAL GARRAHAN",
+        "CUIT": "30-61591554-4",
+        "Modalidad": "Fisico",
+        "PlazoCC": "60",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "6726",
+        "ObraSocial": "MENDOZA BIOMEDICOS",
+        "CUIT": "30-71038889-6",
+        "Modalidad": "Virtual",
+        "PlazoCC": "30",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "6800",
+        "ObraSocial": "HOSPITAL ITALIANO CORDOBA",
+        "CUIT": "30-54589452-8",
+        "Modalidad": "Virtual - Fisico",
+        "PlazoCC": "90",
+        "EntregaLegajos": "CORDOBA",
+        "Observaciones": "Dirección: Roma 550 (Córdoba)"
+    },
+    {
+        "NroCliente": "6899",
+        "ObraSocial": "OSPERYH",
+        "CUIT": "30-59965970-2",
+        "Modalidad": "Fisico",
+        "PlazoCC": "1",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "6920",
+        "ObraSocial": "HOSPITAL BRITANICO DE BUENOS AIRES",
+        "CUIT": "30-54593356-6",
+        "Modalidad": "Virtual - Fisico",
+        "PlazoCC": "60",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "6984",
+        "ObraSocial": "HOSPITAL ESPAÑOL",
+        "CUIT": "30-54587609-0",
+        "Modalidad": "Virtual",
+        "PlazoCC": "30",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "7779",
+        "ObraSocial": "ARBIOMED",
+        "CUIT": "27-17428955-2",
+        "Modalidad": "Virtual",
+        "PlazoCC": "30",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "7978",
+        "ObraSocial": "ORTOPEDIA PERRI",
+        "CUIT": "20-13414413-1",
+        "Modalidad": "Virtual",
+        "PlazoCC": "30",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "7988",
+        "ObraSocial": "FUNDACION MEDICA DE MAR DEL PLATA",
+        "CUIT": "30-54612550-1",
+        "Modalidad": "Virtual",
+        "PlazoCC": "90",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "8167",
+        "ObraSocial": "LUIS PASTEUR",
+        "CUIT": "30-55832555-7",
+        "Modalidad": "Fisico",
+        "PlazoCC": "60",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "8353",
+        "ObraSocial": "OSUTHGRA",
+        "CUIT": "30-53133865-7",
+        "Modalidad": "Fisico",
+        "PlazoCC": "60",
+        "EntregaLegajos": "CABA",
+        "Observaciones": "Presentacion realizada por Hospitalarios (se factura y presenta a fin de mes)"
+    },
+    {
+        "NroCliente": "8525",
+        "ObraSocial": "HOSPITAL CUENCA ALTA",
+        "CUIT": "30-71508015-6",
+        "Modalidad": "Virtual",
+        "PlazoCC": "60",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "8552",
+        "ObraSocial": "GLOBAL MEDICAL",
+        "CUIT": "33-71250477-9",
+        "Modalidad": "Fisico",
+        "PlazoCC": "60",
+        "EntregaLegajos": "CHACO",
+        "Observaciones": "Dirección: Av. Benavidez 327 (La Rioja)"
+    },
+    {
+        "NroCliente": "8796",
+        "ObraSocial": "MEDICINA INTEGRAL FITZ ROY",
+        "CUIT": "30-70784233-0",
+        "Modalidad": "Virtual",
+        "PlazoCC": "60",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "9045",
+        "ObraSocial": "SUMA",
+        "CUIT": "30-65313554-4",
+        "Modalidad": "Fisico",
+        "PlazoCC": "40",
+        "EntregaLegajos": "MAR DEL PLATA",
+        "Observaciones": "REQUISITO: Entrega de legajo fisico solo en casa central (direccion indicada en OC)"
+    },
+    {
+        "NroCliente": "10105",
+        "ObraSocial": "OSTPYGPCH",
+        "CUIT": "30-71549799-5",
+        "Modalidad": "Virtual - Fisico",
+        "PlazoCC": "30",
+        "EntregaLegajos": "NEUQUEN",
+        "Observaciones": "Dirección: Av. V. Alsina 728 (Comodoro Rivadavia, Chubut)"
+    },
+    {
+        "NroCliente": "10245",
+        "ObraSocial": "OSUNSA",
+        "CUIT": "30-56359651-8",
+        "Modalidad": "Virtual - Fisico",
+        "PlazoCC": "28",
+        "EntregaLegajos": "TUCUMAN",
+        "Observaciones": "Dirección: Buenos Aires 367 (Salta)"
+    },
+    {
+        "NroCliente": "10365",
+        "ObraSocial": "UNC",
+        "CUIT": "30-54667062-3",
+        "Modalidad": "Fisico",
+        "PlazoCC": "30",
+        "EntregaLegajos": "CORDOBA",
+        "Observaciones": "Dirección: Sta. Rosa 1564 (Córdoba)"
+    },
+    {
+        "NroCliente": "30011",
+        "ObraSocial": "OSFATLYF",
+        "CUIT": "30-66322124-4",
+        "Modalidad": "Virtual - Fisico",
+        "PlazoCC": "75",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "30020",
+        "ObraSocial": "AMEBPBA",
+        "CUIT": "30-54595994-8",
+        "Modalidad": "Fisico",
+        "PlazoCC": "60",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "30055",
+        "ObraSocial": "O.S.T.P.C.P.H Y A.R.A",
+        "CUIT": "30-67906538-2",
+        "Modalidad": "Fisico",
+        "PlazoCC": "60",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "30067",
+        "ObraSocial": "MEDICPROTECT",
+        "CUIT": "30-71546608-9",
+        "Modalidad": "Virtual - Fisico",
+        "PlazoCC": "60",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "30081",
+        "ObraSocial": "OSPIT",
+        "CUIT": "30-58919114-1",
+        "Modalidad": "Fisico",
+        "PlazoCC": "30",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "30085",
+        "ObraSocial": "CARDIOMED",
+        "CUIT": "30-58225961-1",
+        "Modalidad": "Virtual",
+        "PlazoCC": "60",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "30134",
+        "ObraSocial": "OSEPJANA",
+        "CUIT": "30-55975548-2",
+        "Modalidad": "Fisico",
+        "PlazoCC": "75",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "30187",
+        "ObraSocial": "OSFE",
+        "CUIT": "30-54670697-0",
+        "Modalidad": "Virtual - Fisico",
+        "PlazoCC": "60",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "30199",
+        "ObraSocial": "BIODEC",
+        "CUIT": "33-70849672-9",
+        "Modalidad": "Virtual",
+        "PlazoCC": "60",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "30220",
+        "ObraSocial": "IOSFA",
+        "CUIT": "30-71429214-1",
+        "Modalidad": "Virtual",
+        "PlazoCC": "60",
+        "EntregaLegajos": "TUCUMAN",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "30286",
+        "ObraSocial": "ASE",
+        "CUIT": "30-57807999-4",
+        "Modalidad": "Virtual",
+        "PlazoCC": "90",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "30288",
+        "ObraSocial": "COBENSIL / COBERMED",
+        "CUIT": "30-59879747-8",
+        "Modalidad": "Virtual",
+        "PlazoCC": "30",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "30367",
+        "ObraSocial": "OSPIC",
+        "CUIT": "30-68723949-7",
+        "Modalidad": "Fisico",
+        "PlazoCC": "30",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "30405",
+        "ObraSocial": "AMVVIC",
+        "CUIT": "30-67964163-4",
+        "Modalidad": "Virtual - Fisico",
+        "PlazoCC": "42",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "30426",
+        "ObraSocial": "CIRCULO MEDICO DE LA MATANZA",
+        "CUIT": "30-52020944-8",
+        "Modalidad": "Virtual - Fisico",
+        "PlazoCC": "30",
+        "EntregaLegajos": "CABA",
+        "Observaciones": "Presentacion del legajo fisico 01 y 10 de cada mes (avisar previamente por mail)"
+    },
+    {
+        "NroCliente": "30428",
+        "ObraSocial": "PROGRAMAS ASISTIR",
+        "CUIT": "30-69902671-5",
+        "Modalidad": "Virtual",
+        "PlazoCC": "30",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "30491",
+        "ObraSocial": "LA SEGUNDA ART",
+        "CUIT": "30-68913348-3",
+        "Modalidad": "Virtual",
+        "PlazoCC": "60",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "30504",
+        "ObraSocial": "OSPIV",
+        "CUIT": "30-62703806-9",
+        "Modalidad": "Virtual",
+        "PlazoCC": "30",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "30521",
+        "ObraSocial": "NOBIS",
+        "CUIT": "30-70914204-2",
+        "Modalidad": "Virtual",
+        "PlazoCC": "60",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "30531",
+        "ObraSocial": "OBSBA (SANATORIO JULIO MENDEZ)",
+        "CUIT": "30-99927011-1",
+        "Modalidad": "Virtual",
+        "PlazoCC": "120",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "30595",
+        "ObraSocial": "OSPEDYC",
+        "CUIT": "30-68833954-1",
+        "Modalidad": "Fisico",
+        "PlazoCC": "60",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "30604",
+        "ObraSocial": "SEROS CHUBUT",
+        "CUIT": "30-99922290-7",
+        "Modalidad": "Virtual - Fisico",
+        "PlazoCC": "90",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "30663",
+        "ObraSocial": "BIO RO",
+        "CUIT": "30-71519436-4",
+        "Modalidad": "Virtual - Fisico",
+        "PlazoCC": "60",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "30676",
+        "ObraSocial": "UTN / DASUTEN",
+        "CUIT": "30-54667116-6",
+        "Modalidad": "Virtual",
+        "PlazoCC": "60",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "30682",
+        "ObraSocial": "OSPE",
+        "CUIT": "30-66187671-5",
+        "Modalidad": "Virtual",
+        "PlazoCC": "45",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "30725",
+        "ObraSocial": "ASAR FARMA",
+        "CUIT": "33-71000057-9",
+        "Modalidad": "Virtual - Fisico",
+        "PlazoCC": "60",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "30726",
+        "ObraSocial": "MASTRA SOCIEDAD",
+        "CUIT": "33-70066951-9",
+        "Modalidad": "Virtual",
+        "PlazoCC": "30",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "30759",
+        "ObraSocial": "MUTUAL FEDERADA 25 DE JUNIO",
+        "CUIT": "30-54159260-8",
+        "Modalidad": "Virtual - Fisico",
+        "PlazoCC": "30",
+        "EntregaLegajos": "ROSARIO",
+        "Observaciones": "Dirección: Mariano Moreno 1224 (Rosario, Santa Fe) - REQUISITO: Solicitan presentacion siempre con copia del PQ"
+    },
+    {
+        "NroCliente": "30774",
+        "ObraSocial": "MUTUAL MEDICA RIO CUARTO",
+        "CUIT": "30-68398660-3",
+        "Modalidad": "Fisico",
+        "PlazoCC": "60",
+        "EntregaLegajos": "CORDOBA",
+        "Observaciones": "Dirección: 25 de Mayo 399 (Río Cuarto, Córdoba)"
+    },
+    {
+        "NroCliente": "30820",
+        "ObraSocial": "OSPIP",
+        "CUIT": "30-57176628-7",
+        "Modalidad": "Virtual - Fisico",
+        "PlazoCC": "60",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "31146",
+        "ObraSocial": "IOMA - INCLUIR SALUD",
+        "CUIT": "30-62824952-7",
+        "Modalidad": "Fisico",
+        "PlazoCC": "120",
+        "EntregaLegajos": "LA PLATA",
+        "Observaciones": "Entregar en mesa de entradas del 20 al 30 de cada mes"
+    },
+    {
+        "NroCliente": "31175",
+        "ObraSocial": "CAJA DE SERV. SOC. PROV DE SANTA CRUZ",
+        "CUIT": "30-63824739-5",
+        "Modalidad": "Virtual",
+        "PlazoCC": "90",
+        "EntregaLegajos": "CABA",
+        "Observaciones": "REQUISITO: Se adjunto EXCEL a la presentacion del legajo facturado."
+    },
+    {
+        "NroCliente": "31193",
+        "ObraSocial": "OSPJERA",
+        "CUIT": "30-69635177-1",
+        "Modalidad": "Virtual - Fisico",
+        "PlazoCC": "60",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "31467",
+        "ObraSocial": "WORD SALUD",
+        "CUIT": "30-71643015-0",
+        "Modalidad": "Virtual - Fisico",
+        "PlazoCC": "60",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "31472",
+        "ObraSocial": "OSDE BAHIA BLANCA",
+        "CUIT": "30-54674125-3",
+        "Modalidad": "Virtual - Fisico",
+        "PlazoCC": "30",
+        "EntregaLegajos": "MAR DEL PLATA",
+        "Observaciones": "Dirección: Martiniano Rodriguez 362 (Bahia Blanca)"
+    },
+    {
+        "NroCliente": "31527",
+        "ObraSocial": "ISSN NEUQUEN",
+        "CUIT": "30-99906955-6",
+        "Modalidad": "Virtual",
+        "PlazoCC": "60",
+        "EntregaLegajos": "CABA",
+        "Observaciones": "REQUISITO: Presentacion dentro de los 30 dias de colocado el implante (OC DEBE IR FIRMADA)"
+    },
+    {
+        "NroCliente": "31542",
+        "ObraSocial": "ORTOPEDIA ABBRUZZESE",
+        "CUIT": "20-23175564-1",
+        "Modalidad": "Virtual",
+        "PlazoCC": "1",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "31649",
+        "ObraSocial": "CIRUGIA LEX",
+        "CUIT": "30-71283130-4",
+        "Modalidad": "Virtual",
+        "PlazoCC": "75",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "31769",
+        "ObraSocial": "HOMINIS",
+        "CUIT": "30-65803503-3",
+        "Modalidad": "Fisico",
+        "PlazoCC": "30",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "31849",
+        "ObraSocial": "FEDELTA SALUD",
+        "CUIT": "30-71468112-1",
+        "Modalidad": "Virtual",
+        "PlazoCC": "60",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "31859",
+        "ObraSocial": "INSUMOS EN SALUD",
+        "CUIT": "30-71025254-4",
+        "Modalidad": "Virtual",
+        "PlazoCC": "30",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "31966",
+        "ObraSocial": "IAC INTERNACIONAL",
+        "CUIT": "30-66614830-0",
+        "Modalidad": "Virtual",
+        "PlazoCC": "30",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "106080",
+        "ObraSocial": "HOSPITAL PRIVADO CENTRO MEDICO",
+        "CUIT": "30-54602252-4",
+        "Modalidad": "Fisico",
+        "PlazoCC": "90",
+        "EntregaLegajos": "CORDOBA",
+        "Observaciones": "Dirección: Av. Naciones Unidas 346 (Córdoba)"
+    },
+    {
+        "NroCliente": "241884",
+        "ObraSocial": "MEDIC TOOLS",
+        "CUIT": "30-66563392-2",
+        "Modalidad": "Virtual",
+        "PlazoCC": "30",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "241890",
+        "ObraSocial": "UNION PERSONAL",
+        "CUIT": "30-68303222-7",
+        "Modalidad": "Fisico",
+        "PlazoCC": "60",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "241919",
+        "ObraSocial": "CIRUGIA UNIVERSAL",
+        "CUIT": "20-20237469-8",
+        "Modalidad": "Virtual",
+        "PlazoCC": "30",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "241943",
+        "ObraSocial": "OSPBB",
+        "CUIT": "30-65797255-6",
+        "Modalidad": "Virtual",
+        "PlazoCC": "20",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "241944",
+        "ObraSocial": "MTG GROUP",
+        "CUIT": "30-71130163-8",
+        "Modalidad": "Virtual",
+        "PlazoCC": "60",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "242068",
+        "ObraSocial": "OSDO",
+        "CUIT": "30-63615546-9",
+        "Modalidad": "Virtual - Fisico",
+        "PlazoCC": "30",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "242078",
+        "ObraSocial": "OSPSA",
+        "CUIT": "30-67923210-6",
+        "Modalidad": "Fisico",
+        "PlazoCC": "30",
+        "EntregaLegajos": "MAR DEL PLATA",
+        "Observaciones": "Dirección: Dorrego 1752 (Mar del Plata, Provincia de Buenos Aires)"
+    },
+    {
+        "NroCliente": "242168",
+        "ObraSocial": "AMR SALUD",
+        "CUIT": "30-69831698-1",
+        "Modalidad": "Virtual",
+        "PlazoCC": "30",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "242209",
+        "ObraSocial": "SANCOR SALUD",
+        "CUIT": "30-59035479-8",
+        "Modalidad": "Virtual",
+        "PlazoCC": "45",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "242280",
+        "ObraSocial": "CAJA",
+        "CUIT": "30-64504070-4",
+        "Modalidad": "Virtual",
+        "PlazoCC": "30",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "242284",
+        "ObraSocial": "DASPU",
+        "CUIT": "34-54619810-5",
+        "Modalidad": "Fisico",
+        "PlazoCC": "30",
+        "EntregaLegajos": "CORDOBA",
+        "Observaciones": "Dirección: Av. Cdad. de Valparaíso s/n - Ubicado en Ciudad Universitaria (Córdoba) REQUISITO: El cliente solicita la constancia de inscripción de Suizo con el legajo"
+    },
+    {
+        "NroCliente": "242285",
+        "ObraSocial": "PROGRAMAS MEDICOS",
+        "CUIT": "30-63056305-0",
+        "Modalidad": "Virtual",
+        "PlazoCC": "60",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "242288",
+        "ObraSocial": "OSMECON / CIRCULO MEDICO LOMAS DE ZAMORA",
+        "CUIT": "30-54068032-5",
+        "Modalidad": "Virtual",
+        "PlazoCC": "30",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "242508",
+        "ObraSocial": "OSMATA",
+        "CUIT": "30-59041263-1",
+        "Modalidad": "Virtual - Fisico",
+        "PlazoCC": "30",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "242540",
+        "ObraSocial": "CAIMED",
+        "CUIT": "30-70948139-4",
+        "Modalidad": "Virtual",
+        "PlazoCC": "30",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "242622",
+        "ObraSocial": "MEDICINA ESENCIAL",
+        "CUIT": "30-69841446-0",
+        "Modalidad": "Virtual - Fisico",
+        "PlazoCC": "30",
+        "EntregaLegajos": "ROSARIO",
+        "Observaciones": "Dirección: Blvd. Oroño 797 (Rosario, Santa Fe)"
+    },
+    {
+        "NroCliente": "242623",
+        "ObraSocial": "OSPAC",
+        "CUIT": "30-99901165-5",
+        "Modalidad": "Fisico",
+        "PlazoCC": "30",
+        "EntregaLegajos": "ROSARIO",
+        "Observaciones": "Dirección: 25 de Mayo 1867 (Santa Fe)"
+    },
+    {
+        "NroCliente": "242748",
+        "ObraSocial": "SATSAID",
+        "CUIT": "30-51674838-5",
+        "Modalidad": "Virtual",
+        "PlazoCC": "30",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "242753",
+        "ObraSocial": "OSDEPYM",
+        "CUIT": "30-58666171-6",
+        "Modalidad": "Virtual - Fisico",
+        "PlazoCC": "75",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "242788",
+        "ObraSocial": "GALENO ART",
+        "CUIT": "30-68522850-1",
+        "Modalidad": "Virtual",
+        "PlazoCC": "30",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "242791",
+        "ObraSocial": "ENSALUD",
+        "CUIT": "30-70711845-4",
+        "Modalidad": "Virtual - Fisico",
+        "PlazoCC": "31",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "242792",
+        "ObraSocial": "PREVENCION SALUD",
+        "CUIT": "30-71304500-0",
+        "Modalidad": "Fisico",
+        "PlazoCC": "60",
+        "EntregaLegajos": "CABA",
+        "Observaciones": "Presentacion 15 y 30 de cada mes"
+    },
+    {
+        "NroCliente": "242796",
+        "ObraSocial": "CIMA INTEGRAL",
+        "CUIT": "30-70920090-5",
+        "Modalidad": "Fisico",
+        "PlazoCC": "30",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "242797",
+        "ObraSocial": "WILLIAN HOPE",
+        "CUIT": "30-56578630-6",
+        "Modalidad": "Virtual",
+        "PlazoCC": "60",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "242809",
+        "ObraSocial": "OSDE SALTA",
+        "CUIT": "30-54674125-3",
+        "Modalidad": "Virtual",
+        "PlazoCC": "30",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "242816",
+        "ObraSocial": "OSPEPRI",
+        "CUIT": "30-71069148-3",
+        "Modalidad": "Virtual",
+        "PlazoCC": "30",
+        "EntregaLegajos": "CABA",
+        "Observaciones": "Presentacion del legajo virtual 01 y 10 de cada mes"
+    },
+    {
+        "NroCliente": "242872",
+        "ObraSocial": "GRUPO PROYECTAR",
+        "CUIT": "30-70951743-7",
+        "Modalidad": "Virtual - Fisico",
+        "PlazoCC": "30",
+        "EntregaLegajos": "CORDOBA",
+        "Observaciones": "Dirección: Av. San Martín 58 - Villa Carlos Paz (Córdoba) / recepcion@srsalud.com"
+    },
+    {
+        "NroCliente": "242873",
+        "ObraSocial": "GEA",
+        "CUIT": "33-68915085-9",
+        "Modalidad": "Fisico",
+        "PlazoCC": "1",
+        "EntregaLegajos": "CORDOBA",
+        "Observaciones": "Dirección: Av. Hipólito Yrigoyen 433 (Córdoba)"
+    },
+    {
+        "NroCliente": "242902",
+        "ObraSocial": "SOSUNC",
+        "CUIT": "30-59050964-3",
+        "Modalidad": "Virtual - Fisico",
+        "PlazoCC": "60",
+        "EntregaLegajos": "NEUQUEN",
+        "Observaciones": "Dirección: Avenida Argentina 1273 (Neuquén)"
+    },
+    {
+        "NroCliente": "242904",
+        "ObraSocial": "OSPTF",
+        "CUIT": "30-71544581-2",
+        "Modalidad": "Virtual",
+        "PlazoCC": "60",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "242906",
+        "ObraSocial": "MGR IMPLANTES",
+        "CUIT": "30-70901601-2",
+        "Modalidad": "Virtual",
+        "PlazoCC": "30",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "242922",
+        "ObraSocial": "CAJA FORENSE DE LA 2 CIRCUNSC JUDICIAL",
+        "CUIT": "30-53435350-9",
+        "Modalidad": "Virtual - Fisico",
+        "PlazoCC": "45",
+        "EntregaLegajos": "ROSARIO",
+        "Observaciones": "Dirección: Av. Pellegrini 2077 (Rosario, Santa Fe)"
+    },
+    {
+        "NroCliente": "242976",
+        "ObraSocial": "CAJA FORENSE",
+        "CUIT": "30-63648630-9",
+        "Modalidad": "Virtual - Fisico",
+        "PlazoCC": "30",
+        "EntregaLegajos": "ROSARIO",
+        "Observaciones": "Dirección: 3 de Febrero 2761 (Santa Fe)"
+    },
+    {
+        "NroCliente": "243021",
+        "ObraSocial": "CAJA NOTARIAL",
+        "CUIT": "30-70195125-1",
+        "Modalidad": "Virtual",
+        "PlazoCC": "20",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "243063",
+        "ObraSocial": "OSDE CORDOBA",
+        "CUIT": "30-54674125-3",
+        "Modalidad": "Virtual - Fisico",
+        "PlazoCC": "30",
+        "EntregaLegajos": "CORDOBA",
+        "Observaciones": "Dirección: Av. Rafael Núñez 4252 (Cordoba)"
+    },
+    {
+        "NroCliente": "243158",
+        "ObraSocial": "GESTION SALUD",
+        "CUIT": "30-70739104-5",
+        "Modalidad": "Virtual - Fisico",
+        "PlazoCC": "30",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "243168",
+        "ObraSocial": "OSPM",
+        "CUIT": "30-71198340-2",
+        "Modalidad": "Virtual",
+        "PlazoCC": "1",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "243183",
+        "ObraSocial": "AMFFA",
+        "CUIT": "30-57101480-3",
+        "Modalidad": "Virtual",
+        "PlazoCC": "30",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "243184",
+        "ObraSocial": "INSUMED",
+        "CUIT": "27-24327561-5",
+        "Modalidad": "Virtual",
+        "PlazoCC": "30",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "243315",
+        "ObraSocial": "MAGNUS",
+        "CUIT": "30-71122263-0",
+        "Modalidad": "Virtual",
+        "PlazoCC": "60",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "243350",
+        "ObraSocial": "OSDE CHACO",
+        "CUIT": "30-54674125-3",
+        "Modalidad": "Virtual",
+        "PlazoCC": "20",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "243379",
+        "ObraSocial": "SIPSSA",
+        "CUIT": "30-68102096-5",
+        "Modalidad": "Virtual",
+        "PlazoCC": "30",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "243508",
+        "ObraSocial": "CALIDAD MEDICA / SUME SALUD",
+        "CUIT": "30-70882614-2",
+        "Modalidad": "Virtual - Fisico",
+        "PlazoCC": "30",
+        "EntregaLegajos": "CORDOBA",
+        "Observaciones": "Dirección: Av. Poeta Leopoldo Lugones 284 (Córdoba)"
+    },
+    {
+        "NroCliente": "243536",
+        "ObraSocial": "BIO-CORP",
+        "CUIT": "30-71443490-6",
+        "Modalidad": "Virtual - Fisico",
+        "PlazoCC": "30",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "243552",
+        "ObraSocial": "MET CORDOBA",
+        "CUIT": "30-64695062-3",
+        "Modalidad": "Virtual",
+        "PlazoCC": "30",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "243640",
+        "ObraSocial": "ASUNT",
+        "CUIT": "30-54667048-8",
+        "Modalidad": "Virtual - Fisico",
+        "PlazoCC": "1",
+        "EntregaLegajos": "TUCUMAN",
+        "Observaciones": "Dirección: Gral. José de San Martín 864 (San Miguel de Tucumán, Tucumán)"
+    },
+    {
+        "NroCliente": "243916",
+        "ObraSocial": "OSDE ROSARIO",
+        "CUIT": "30-54674125-3",
+        "Modalidad": "Virtual",
+        "PlazoCC": "30",
+        "EntregaLegajos": "ROSARIO",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "243946",
+        "ObraSocial": "OSFATUN",
+        "CUIT": "30-68333676-5",
+        "Modalidad": "Virtual - Fisico",
+        "PlazoCC": "30",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "244022",
+        "ObraSocial": "SWISS MEDICAL ART",
+        "CUIT": "33-68626286-9",
+        "Modalidad": "Virtual",
+        "PlazoCC": "60",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "244036",
+        "ObraSocial": "OSDE BARILOCHE",
+        "CUIT": "30-54674125-3",
+        "Modalidad": "Virtual",
+        "PlazoCC": "30",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "244043",
+        "ObraSocial": "OSDE MENDOZA",
+        "CUIT": "30-54674125-3",
+        "Modalidad": "Virtual",
+        "PlazoCC": "30",
+        "EntregaLegajos": "CABA",
+        "Observaciones": "REQUISITO: Presentacion dentro de los 60 dias de colocado el implante"
+    },
+    {
+        "NroCliente": "244075",
+        "ObraSocial": "OSPMLM",
+        "CUIT": "30-54443361-6",
+        "Modalidad": "Fisico",
+        "PlazoCC": "30",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "244102",
+        "ObraSocial": "VISION NORTE",
+        "CUIT": "30-71575278-2",
+        "Modalidad": "Virtual - Fisico",
+        "PlazoCC": "30",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "244141",
+        "ObraSocial": "CENTRO MEDICO DE MAR DEL PLATA",
+        "CUIT": "30-54119051-8",
+        "Modalidad": "Fisico",
+        "PlazoCC": "30",
+        "EntregaLegajos": "MAR DEL PLATA",
+        "Observaciones": "Dirección: San Luis 1978 (Mar del Plata, Provincia de Buenos Aires)"
+    },
+    {
+        "NroCliente": "244142",
+        "ObraSocial": "CENTRO ASISTENCIAL DE MEDICINA",
+        "CUIT": "30-54359417-9",
+        "Modalidad": "Virtual - Fisico",
+        "PlazoCC": "30",
+        "EntregaLegajos": "ROSARIO",
+        "Observaciones": "Dirección: Av. Gral. Bartolomé Mitre 111 (Rafaela, Santa Fe)"
+    },
+    {
+        "NroCliente": "244321",
+        "ObraSocial": "OSDE PERGAMINO",
+        "CUIT": "30-54674125-3",
+        "Modalidad": "Virtual",
+        "PlazoCC": "20",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "244574",
+        "ObraSocial": "FAS IMPLATS",
+        "CUIT": "30-71122710-1",
+        "Modalidad": "Virtual",
+        "PlazoCC": "60",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "244782",
+        "ObraSocial": "THAUSEN",
+        "CUIT": "30-70951467-5",
+        "Modalidad": "Virtual",
+        "PlazoCC": "15",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "244886",
+        "ObraSocial": "ORTOPEDIA BERNAT",
+        "CUIT": "30-66114361-0",
+        "Modalidad": "Virtual - Fisico",
+        "PlazoCC": "30",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "244898",
+        "ObraSocial": "KORPER",
+        "CUIT": "33-71122692-9",
+        "Modalidad": "Virtual",
+        "PlazoCC": "30",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "244973",
+        "ObraSocial": "GITMED INSUMOS MEDICOS",
+        "CUIT": "30-71195011-3",
+        "Modalidad": "Virtual - Fisico",
+        "PlazoCC": "30",
+        "EntregaLegajos": "CABA",
+        "Observaciones": "Entregas realizadas en Misiones solo virtual"
+    },
+    {
+        "NroCliente": "245243",
+        "ObraSocial": "GYF SINTER INSTRUMENTS",
+        "CUIT": "33-71483985-9",
+        "Modalidad": "Virtual",
+        "PlazoCC": "30",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "245276",
+        "ObraSocial": "MEDICINLIFE",
+        "CUIT": "30-71460630-8",
+        "Modalidad": "Virtual",
+        "PlazoCC": "60",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "245280",
+        "ObraSocial": "OSPRO",
+        "CUIT": "30-62425407-0",
+        "Modalidad": "Virtual - Fisico",
+        "PlazoCC": "30",
+        "EntregaLegajos": "ROSARIO",
+        "Observaciones": "Dirección: Juan Manuel de Rosas 958 (Rosario, Santa Fe)"
+    },
+    {
+        "NroCliente": "245299",
+        "ObraSocial": "AMC SALUD",
+        "CUIT": "33-71640558-9",
+        "Modalidad": "Virtual - Fisico",
+        "PlazoCC": "30",
+        "EntregaLegajos": "ROSARIO",
+        "Observaciones": "Dirección: Urquiza 1318 (Rosario, Santa Fe)"
+    },
+    {
+        "NroCliente": "245340",
+        "ObraSocial": "IOSFA TUCUMAN",
+        "CUIT": "30-71429214-1",
+        "Modalidad": "Virtual - Fisico",
+        "PlazoCC": "30",
+        "EntregaLegajos": "TUCUMAN",
+        "Observaciones": "Dirección: 25 de Mayo 1023 (San Miguel de Tucumán, Tucumán)"
+    },
+    {
+        "NroCliente": "245491",
+        "ObraSocial": "DOSEM",
+        "CUIT": "30-70843806-1",
+        "Modalidad": "Fisico",
+        "PlazoCC": "30",
+        "EntregaLegajos": "MAR DEL PLATA",
+        "Observaciones": "Dirección: Alsina 65 (Bahía Blanca, Provincia de Buenos Aires)"
+    },
+    {
+        "NroCliente": "245528",
+        "ObraSocial": "HM BIOMEDIC",
+        "CUIT": "33-71416089-9",
+        "Modalidad": "Virtual",
+        "PlazoCC": "30",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "245587",
+        "ObraSocial": "SOSUNS",
+        "CUIT": "33-55272946-9",
+        "Modalidad": "Virtual",
+        "PlazoCC": "30",
+        "EntregaLegajos": "MAR DEL PLATA",
+        "Observaciones": "REQUISITO: CI original (no aceptan copia del PQ)"
+    },
+    {
+        "NroCliente": "245596",
+        "ObraSocial": "O.S.O.E.F.R.N. y N.",
+        "CUIT": "30-55691806-2",
+        "Modalidad": "Virtual - Fisico",
+        "PlazoCC": "30",
+        "EntregaLegajos": "NEUQUEN",
+        "Observaciones": "Dirección: Av. Mengelle 130 (Cipolletti, Río Negro)"
+    },
+    {
+        "NroCliente": "245598",
+        "ObraSocial": "ART BERKLEY",
+        "CUIT": "30-68589307-6",
+        "Modalidad": "Virtual",
+        "PlazoCC": "60",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "245604",
+        "ObraSocial": "OSPA",
+        "CUIT": "30-60410175-8",
+        "Modalidad": "Virtual",
+        "PlazoCC": "30",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "245662",
+        "ObraSocial": "IMPLANTS",
+        "CUIT": "20-33826047-5",
+        "Modalidad": "Virtual",
+        "PlazoCC": "30",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "245714",
+        "ObraSocial": "PH MEDICAL",
+        "CUIT": "20-24632998-3",
+        "Modalidad": "Virtual",
+        "PlazoCC": "30",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "246541",
+        "ObraSocial": "NEW IMPLANT",
+        "CUIT": "30-71686453-3",
+        "Modalidad": "Virtual",
+        "PlazoCC": "30",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "246601",
+        "ObraSocial": "MEDICAL INSUMOS",
+        "CUIT": "30-71747533-6",
+        "Modalidad": "Virtual",
+        "PlazoCC": "30",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "246629",
+        "ObraSocial": "OSPIM",
+        "CUIT": "30-50289264-5",
+        "Modalidad": "Virtual - Fisico",
+        "PlazoCC": "30",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "246787",
+        "ObraSocial": "CHACO IMPLANTES",
+        "CUIT": "23-27991900-9",
+        "Modalidad": "Virtual",
+        "PlazoCC": "30",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "247072",
+        "ObraSocial": "OSPIF (FIDEERA)",
+        "CUIT": "30-66169170-7",
+        "Modalidad": "Virtual - Fisico",
+        "PlazoCC": "30",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "247228",
+        "ObraSocial": "CORPO MEDICA",
+        "CUIT": "30-62591300-0",
+        "Modalidad": "Virtual - Fisico",
+        "PlazoCC": "30",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "247306",
+        "ObraSocial": "IOSFA NEUQUEN",
+        "CUIT": "30-71429214-1",
+        "Modalidad": "Virtual",
+        "PlazoCC": "60",
+        "EntregaLegajos": "CABA",
+        "Observaciones": "Revisar informacion declarada en la OC"
+    },
+    {
+        "NroCliente": "247406",
+        "ObraSocial": "OSOCNA",
+        "CUIT": "30-67787023-7",
+        "Modalidad": "Virtual - Fisico",
+        "PlazoCC": "30",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "247554",
+        "ObraSocial": "OSPAPEL",
+        "CUIT": "30-60712615-8",
+        "Modalidad": "Virtual - Fisico",
+        "PlazoCC": "30",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "247597",
+        "ObraSocial": "KONIX",
+        "CUIT": "30-71737895-0",
+        "Modalidad": "Virtual - Fisico",
+        "PlazoCC": "30",
+        "EntregaLegajos": "CORDOBA",
+        "Observaciones": "Dirección: Salta 366 - Noetinger (Córdoba)"
+    },
+    {
+        "NroCliente": "247601",
+        "ObraSocial": "OSDE LITORAL NORTE",
+        "CUIT": "30-54674125-3",
+        "Modalidad": "Virtual",
+        "PlazoCC": "30",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "247647",
+        "ObraSocial": "SANATORIO OTAMENDI Y MIROLI",
+        "CUIT": "30-54585245-0",
+        "Modalidad": "Virtual - Fisico",
+        "PlazoCC": "30",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "247665",
+        "ObraSocial": "CLINICA VIEDMA",
+        "CUIT": "30-51840714-3",
+        "Modalidad": "Virtual",
+        "PlazoCC": "1",
+        "EntregaLegajos": "CABA",
+        "Observaciones": ""
+    },
+    {
+        "NroCliente": "247667",
+        "ObraSocial": "CLINICA LA PAU",
+        "CUIT": "33-71498308-9",
+        "Modalidad": "Virtual - Fisico",
+        "PlazoCC": "30",
+        "EntregaLegajos": "MENDOZA",
+        "Observaciones": "Dirección: General Paz 576 este (San Juan)"
+    }
+]
